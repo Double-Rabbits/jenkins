@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/bin
+END
+printAppVersion
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/bin/printAppVersion
+END
+fbwrap
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/bin/fbwrap
+END
+printClass
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/bin/printClass
+END
+convertXmlToText
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/bin/convertXmlToText
+END
+copyBuggySource
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/bin/copyBuggySource
+END
+addMessages
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/bin/addMessages
+END
+unionBugs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/bin/unionBugs
+END
+mineBugHistory
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/bin/mineBugHistory
+END
+xpathFind
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/bin/xpathFind
+END
+filterBugs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/bin/filterBugs
+END
+defectDensity
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/bin/defectDensity
+END
+computeBugHistory
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/bin/computeBugHistory
+END
+findbugs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/bin/findbugs
+END
+findbugs2
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/bin/findbugs2
+END
+setBugDatabaseInfo
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/bin/setBugDatabaseInfo
+END
+rejarForAnalysis
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/bin/rejarForAnalysis
+END
+findbugs.bat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/bin/findbugs.bat
+END
+listBugDatabaseInfo
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/bin/listBugDatabaseInfo
+END

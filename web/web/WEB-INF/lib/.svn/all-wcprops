@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/sampleproject/!svn/ver/2/trunk/web/WEB-INF/lib
+END
+dummy.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sampleproject/!svn/ver/2/trunk/web/WEB-INF/lib/dummy.txt
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sampleproject/!svn/ver/14/trunk/src/java/jp/gihyo/jenkinsbook
+END
+SampleServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sampleproject/!svn/ver/2/trunk/src/java/jp/gihyo/jenkinsbook/SampleServlet.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sampleproject/!svn/ver/2/trunk/src/java/jp/gihyo/jenkinsbook/package-info.java
+END

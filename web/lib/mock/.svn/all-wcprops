@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/sampleproject/!svn/ver/2/trunk/lib/mock
+END
+easymock-3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sampleproject/!svn/ver/2/trunk/lib/mock/easymock-3.0.jar
+END
+cglib-nodep-2.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sampleproject/!svn/ver/2/trunk/lib/mock/cglib-nodep-2.2.2.jar
+END
+objenesis-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sampleproject/!svn/ver/2/trunk/lib/mock/objenesis-1.2.jar
+END

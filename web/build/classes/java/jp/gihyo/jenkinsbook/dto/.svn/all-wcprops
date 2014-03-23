@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sampleproject/!svn/ver/2/trunk/build/classes/java/jp/gihyo/jenkinsbook/dto
+END
+SampleDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sampleproject/!svn/ver/2/trunk/build/classes/java/jp/gihyo/jenkinsbook/dto/SampleDTO.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sampleproject/!svn/ver/2/trunk/build/classes/java/jp/gihyo/jenkinsbook/dto/package-info.class
+END

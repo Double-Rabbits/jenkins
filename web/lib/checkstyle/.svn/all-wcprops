@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/sampleproject/!svn/ver/2/trunk/lib/checkstyle
+END
+checkstyle-5.3-all.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sampleproject/!svn/ver/2/trunk/lib/checkstyle/checkstyle-5.3-all.jar
+END
+sun_checks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sampleproject/!svn/ver/2/trunk/lib/checkstyle/sun_checks.xml
+END

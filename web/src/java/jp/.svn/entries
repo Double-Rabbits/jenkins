@@ -1,0 +1,31 @@
+10
+
+dir
+23
+http://54.193.109.174:8000/svn/sampleproject/trunk/src/java/jp
+http://54.193.109.174:8000/svn/sampleproject
+
+
+
+2014-03-22T19:07:41.406871Z
+14
+admin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d183cc7a-bf33-4e1c-8609-6f81f4c33e6d
+
+gihyo
+dir
+

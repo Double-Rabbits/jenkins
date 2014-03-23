@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc
+END
+links.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/links.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/index.html
+END
+pressRelease.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/pressRelease.pdf
+END
+eclipse-filters-icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/eclipse-filters-icon.png
+END
+findbugs.css
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/findbugs.css
+END
+downloads.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/downloads.html
+END
+informal.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/informal.png
+END
+mailingLists.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/mailingLists.html
+END
+users.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/users.html
+END
+manual-fo.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/manual-fo.xsl
+END
+Changes.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/Changes.html
+END
+demo.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/demo.html
+END
+buggy-sm.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/buggy-sm.png
+END
+team.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/team.html
+END
+bug-logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/bug-logo.png
+END
+umdFindbugs.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/umdFindbugs.png
+END
+FAQ.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/FAQ.html
+END
+surelogic.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/surelogic.png
+END
+factSheet.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/factSheet.html
+END
+performingARelease.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/performingARelease.txt
+END
+guaranteedDereference.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/guaranteedDereference.png
+END
+manual.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/manual.xsl
+END
+infiniteRecursiveLoops.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/infiniteRecursiveLoops.png
+END
+reportingBugs.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/reportingBugs.html
+END
+AddingDetectors.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/AddingDetectors.txt
+END
+bugDescriptions.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/bugDescriptions.html
+END
+contributing.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/contributing.html
+END
+allBugDescriptions.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/allBugDescriptions.html
+END
+manual.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/manual.xml
+END
+publications.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/publications.html
+END
+FilterFile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/FilterFile.txt
+END
+sysprops.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/sysprops.html
+END
+manual_ja.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/doc/manual_ja.xml
+END

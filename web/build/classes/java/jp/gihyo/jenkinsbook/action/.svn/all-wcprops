@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sampleproject/!svn/ver/2/trunk/build/classes/java/jp/gihyo/jenkinsbook/action
+END
+SampleAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sampleproject/!svn/ver/2/trunk/build/classes/java/jp/gihyo/jenkinsbook/action/SampleAction.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sampleproject/!svn/ver/2/trunk/build/classes/java/jp/gihyo/jenkinsbook/action/package-info.class
+END

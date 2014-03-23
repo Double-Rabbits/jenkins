@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs
+END
+findbugs.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/findbugs.jar
+END
+findbugs-ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sampleproject/!svn/ver/2/trunk/lib/findbugs/findbugs-ant.jar
+END
